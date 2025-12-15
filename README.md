@@ -66,7 +66,7 @@ The analysis highlights:
 ---
 
 ## 📌 Files in this Repository
-- `Devadharshini _EDA_Week2(draft).ipynb` – Jupyter Notebook with full analysis
+- `Devadharshini _EDA_Week2(draft).ipynb` – Colab Notebook with full analysis
 - `Devadharshini _EDA_Week2.(draft).pdf` – Exported PDF report
 
 ---

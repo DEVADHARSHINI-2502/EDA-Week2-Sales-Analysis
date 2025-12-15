@@ -39,7 +39,13 @@ The following visualizations were created using **Matplotlib** and **Seaborn**:
 - Histogram for sales distribution
 - Scatter plot for discount vs profit relationship
 
----
+2. Monthly Sales Trend Visualization
+
+- Extracted Year and Month from the Order Date to enable time-based grouping.
+- Grouped data by Year and Month and aggregated total monthly sales.
+- Plotted year-wise monthly sales trends using a line chart.
+- This visualization helps identify seasonal patterns and compare performance across different years.
+
 
 ## 💡 Insights
 The analysis highlights:

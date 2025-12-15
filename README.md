@@ -36,7 +36,7 @@ Key EDA tasks include:
 The following visualizations were created using **Matplotlib** and **Seaborn**:
 - Bar chart for category-wise sales
 - Line chart showing sales trend over time
-- Histogram for sales distribution
+- Histogram for sales distribution and profit distribution
 - Scatter plot for discount vs profit relationship
 
 2. Monthly Sales Trend Visualization
@@ -49,9 +49,8 @@ The following visualizations were created using **Matplotlib** and **Seaborn**:
 
 ## 💡 Insights
 The analysis highlights:
-- High-performing product categories
+- High-performing product sub-categories
 - Impact of discounts on profitability
-- Regional sales and profit variations
 - Seasonal patterns in sales trends
 
 ---
@@ -68,6 +67,7 @@ The analysis highlights:
 ## 📌 Files in this Repository
 - `Devadharshini _EDA_Week2(draft).ipynb` – Colab Notebook with full analysis
 - `Devadharshini _EDA_Week2.(draft).pdf` – Exported PDF report
+- 'Charts and Insights.pdf'-Insights discovered through the data
 
 ---
 
